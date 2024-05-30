@@ -1,0 +1,61 @@
+<Html>
+
+<Head>
+
+<Title>Image Map</Title>
+
+</Head>
+
+<Body><img src="india map.jpg" usemap="#metroid" ismap="ismap" >
+
+<map name="metroid" id="metroid">
+
+<area href='TamilNadu.html' shape='circle' coords='175,495,30'title='TamilNadu'/>
+
+<area href = "Karnataka.html" shape = "rect" coords = "100,400,150,450" title ="Karnataka" />
+
+<area href = "AndhraPradesh.html" shape = "poly"coords = "150,415,175,348,265,360,190,420,190,440" 
+
+title = "Andhra Pradesh" />
+
+<area href = "Kerala.html" shape = "poly" cords
+
+="108,455,150,515,115,490,148,495,110,448,155,501"title="Kerala" />
+
+</map>
+
+</Body>
+
+</Html>
+
+TamilNadu.html
+
+<Html>
+
+<Head>
+
+<Title>About Tamil Nadu</Title>
+
+</Head>
+
+<Body>
+
+<Center><h1>Tamil Nadu</h1></Center>
+
+<Hr>
+
+<Ul>
+
+<Li>Area : 1,30,058 Sq. Kms.</Li>
+
+<Li>Capital :Chennai</Li>
+
+<Li>Language :Tamil</Li>
+
+<Li>Population : 6,21,10,839</Li>
+
+<Li>Done By : BHARGAVI.V.D</Li>
+
+</Ul>
+
+<Hr>
